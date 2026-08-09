@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Google OAuth credentials
+credentials.json
+token.json
+
+# Local reminder data
+reminders.json
